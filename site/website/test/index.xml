@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0266</objectGroupId>
+	<objectId>0266e7eb-ae47-484e-7220-a0580c509d91</objectId>
+	<disabled>false</disabled>
+	<internal-name>test</internal-name>
+	<title_t>test</title_t>
+	<articles_title_t>test</articles_title_t>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<category_s>style</category_s>
+	<max_articles_i>10</max_articles_i>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<createdDate>2022-12-20T22:07:56.668Z</createdDate>
+	<createdDate_dt>2022-12-20T22:07:56.668Z</createdDate_dt>
+	<lastModifiedDate>2022-12-20T22:07:56.668Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-12-20T22:07:56.668Z</lastModifiedDate_dt>
+</page>
